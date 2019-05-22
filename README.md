@@ -3,3 +3,6 @@ Hellon,
 Salut
 Bizz
 
+Hi
+Coucou
+Kiss
